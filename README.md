@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @PooyaRah
-- 📫 How to reach me in linkedin 
+- 👋 Hi, I’m Mohamad Rahimi
+- 📫 Reach me in [linkedin](https://www.linkedin.com/in/mohamad-rahimi/)
 
 
 
