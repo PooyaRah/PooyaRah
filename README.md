@@ -1,9 +1,1 @@
-- 👋 Hi, I’m Mohamad Rahimi
-- 📫 Reach me in [linkedin](https://www.linkedin.com/in/mohamad-rahimi/)
-
-
-
-<!---
-PooyaRah/PooyaRah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an expert backend developer and technology leader with experience in software engineering, distributed systems, and high-performance computing. As the former Co-Founder and CTO of P.G. Havin, I’ve led teams to deliver scalable solutions in cloud computing and AI-driven systems. I’m eager to apply my expertise and collaborate on building applications that drive business success.
